@@ -1,3 +1,5 @@
+package Iryna;
+
 public class MoreFuture {
 
     //so money money money
