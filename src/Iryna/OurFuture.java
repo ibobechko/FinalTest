@@ -11,4 +11,6 @@ public class OurFuture {
     //do you want to learn?
 
     //or do you want to argue lmao
+
+    //okay if you don't want to learn let's talk
 }
