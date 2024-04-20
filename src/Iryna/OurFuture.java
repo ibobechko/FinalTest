@@ -1,3 +1,5 @@
+package Iryna;
+
 public class OurFuture {
 
     //Hello Alina
